@@ -1,0 +1,22 @@
+clone-clone a repository in our local machine
+>> git clone "some-link"
+
+get the status of the code
+>> git status
+
+after modifying a file
+step 1: add(file is staged)
+step 2: commit
+
+
+then use:
+git push origin main
+
+
+
+
+init- used to create a new git repository
+now to push:
+1. git remote add origin "link"
+2. git remote -v .................to check current origin
+3.git branch ................ to check the branch
